@@ -24,7 +24,7 @@ function promptUserPurchase() {
 		{
 			type: 'input',
 			name: 'quantity',
-			message: 'How many do you need?',
+			message: 'How many do you need',
 		}
 	]).then(function(input) {
 
